@@ -32,4 +32,21 @@
 - Implemented **Real-time Notifications & Pusher integration** across multiple dashboards  
 - Built **Dynamic Profile & Settings Pages** using Shadcn UI with password strength validation & tooltips  
 - Integrated **Bing Visual Search & AI-based Crop Disease Detection** in Python (FastAPI)  
-# majidali137
+
+
+### 🌟 Featured Project: Modern Real Estate Web Application  
+
+A modern real estate web application built with the **MERN Stack**, **Firebase**, **Resend Email**, and **Tailwind CSS**, designed to simplify property management and create a seamless experience for buyers, sellers, and renters.  
+
+#### 🔑 Key Features
+- 👤 **User Registration & Profile Management**  
+- 🏘 **Add & Manage Properties** (Sale / Rent)  
+- 📊 **Seller Dashboard** with Easy Property Form  
+- 📈 **Admin Dashboard** with Data Visualization (Graphs)  
+- 💬 **Real-Time Chat & Notifications** (Socket.io)  
+- 🔐 **Secure Login** with Forgot Password Flow  
+- 📱 **Fully Responsive UI** for all devices  
+
+This project demonstrates how technology can streamline real estate transactions and provide a smooth, modern experience for all users.  
+
+🤝 Open to collaborations, freelance opportunities, and client projects where I can bring similar innovative solutions to life.  
