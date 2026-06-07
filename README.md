@@ -6,7 +6,7 @@ Full-Stack Developer focused on building fast, scalable, and user-friendly web a
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;3%2B+Years+of+Experience;Next.js+%7C+Laravel+%7C+MERN+Stack;Building+Real+World+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;3%2B+Years+of+Experience;Next.js+%7C+Nest.js+%7C+MERN+Stack+%7C+Laravel;Building+Real+World+Web+Applications" />
 </p>
 
 ---
