@@ -1,52 +1,123 @@
-### <div>I'm Majid Ali — Full-Stack Developer</div>  
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Majid Ali</h1>
+
+<h3 align="center">
+Full-Stack Developer focused on building fast, scalable, and user-friendly web applications.
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;3%2B+Years+of+Experience;Next.js+%7C+Laravel+%7C+MERN+Stack;Building+Real+World+Web+Applications" />
+</p>
 
 ---
 
-- 3+ Years of Experience  
-- ✨ [Visit my portfolio](https://themajidpro.vercel.app)  
-- 📄 [Email me](mailto:themajidpro@gmail.com)  
+# 💫 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm a Full-Stack Developer with 3+ years of experience building real-world web applications for startups and businesses.
+
+I work on complete product development, from UI design and frontend development to backend APIs, databases, authentication systems, and deployment.
+
+My focus is always on clean architecture, performance, and building applications that are actually usable in production.
+
+Currently working as a freelancer and handling client projects across different industries.
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Skills
+# 🚀 Tech Stack
 
 ### 💻 Frontend
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Vite.js` `Bootstrap` `TailwindCSS` `Shadcn UI` `Framer Motion` `MUI` `Ant Design` `Figma` `Adobe XD`  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" />
+</p>
 
-### 🖥️ Backend
-`Node.js` `Express.js` `Nest.js` `PHP` `Laravel` `Python` `Django` `Django REST Framework` `FastAPI` `Flask`  
-
-### 🗄️ Databases
-`MongoDB` `MySQL` `PostgreSQL` `SQLite` `Redis`  
-
-### ⚙️ DevOps & Deployment
-`Docker` `GitHub Actions` `Vercel` `AWS` `Linux` `Nginx`  
-
-### 🧪 Testing & Tools
-`Postman` `Jest` `Cypress` `React Testing Library` `PyTest`  
+**UI & Design Tools**
+- Shadcn UI  
+- Framer Motion  
+- MUI  
+- Figma  
 
 ---
 
-### 🌟 Projects & Highlights
-- Developed **Online Agriculture Store & Consultation Platform** using Next.js & MongoDB with AI features  
-- Implemented **Real-time Notifications & Pusher integration** across multiple dashboards  
-- Built **Dynamic Profile & Settings Pages** using Shadcn UI with password strength validation & tooltips  
-- Integrated **Bing Visual Search & AI-based Crop Disease Detection** in Python (FastAPI)  
+### 🖥️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi" />
+</p>
 
+---
 
-### 🌟 Featured Project: Modern Real Estate Web Application  
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
+</p>
 
-A modern real estate web application built with the **MERN Stack**, **Firebase**, **Resend Email**, and **Tailwind CSS**, designed to simplify property management and create a seamless experience for buyers, sellers, and renters.  
+---
 
-#### 🔑 Key Features
-- 👤 **User Registration & Profile Management**  
-- 🏘 **Add & Manage Properties** (Sale / Rent)  
-- 📊 **Seller Dashboard** with Easy Property Form  
-- 📈 **Admin Dashboard** with Data Visualization (Graphs)  
-- 💬 **Real-Time Chat & Notifications** (Socket.io)  
-- 🔐 **Secure Login** with Forgot Password Flow  
-- 📱 **Fully Responsive UI** for all devices  
+### ☁️ DevOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,githubactions,vercel,aws,linux,nginx" />
+</p>
 
-This project demonstrates how technology can streamline real estate transactions and provide a smooth, modern experience for all users.  
+---
 
-🤝 Open to collaborations, freelance opportunities, and client projects where I can bring similar innovative solutions to life.  
+### 🧪 Testing & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,jest,cypress,github" />
+</p>
+
+- React Testing Library  
+- PyTest  
+
+---
+
+# 🚀 Featured Projects
+
+### 🌾 Agriculture Store & Consultation Platform
+A full-stack platform with AI-based crop disease detection, marketplace, and weather-based recommendations.
+
+**Stack:** Next.js, MongoDB, Python, FastAPI
+
+---
+
+### 🏠 Real Estate Management System
+Property listing platform with authentication, dashboards, and real-time communication.
+
+**Stack:** MERN, Firebase, Socket.io
+
+---
+
+### 📊 Business Dashboard System
+Custom admin dashboard with analytics, roles, notifications, and API integrations.
+
+**Stack:** Next.js, Laravel, MongoDB
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://themajidpro.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:themajidpro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# ⚡ Final Note
+
+I build applications end-to-end, focusing on real business problems, not just UI screens.
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile
+</p>
