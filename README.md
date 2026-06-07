@@ -58,14 +58,14 @@ Currently working as a freelancer and handling client projects across different 
 
 ### DevOps & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,github,githubactions,vercel,aws,linux,nginx,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,github,githubactions,vercel,aws,linux,nginx,netlify,firebase,digitalocean" />
 </p>
 
 ---
 
 ### Testing & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,jest,cypress,github,postman" />
+  <img src="https://skillicons.dev/icons?i=postman,jest,cypress,github,vscode,slack" />
 </p>
 
 - React Testing Library  
