@@ -11,7 +11,7 @@ Full-Stack Developer focused on building fast, scalable, and user-friendly web a
 
 ---
 
-# 💫 About Me
+# About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -27,9 +27,9 @@ Currently working as a freelancer and handling client projects across different 
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-### 💻 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" />
 </p>
@@ -42,28 +42,28 @@ Currently working as a freelancer and handling client projects across different 
 
 ---
 
-### 🖥️ Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi" />
 </p>
 
 ---
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
 </p>
 
 ---
 
-### ☁️ DevOps & Deployment
+### DevOps & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=docker,github,githubactions,vercel,aws,linux,nginx" />
 </p>
 
 ---
 
-### 🧪 Testing & Tools
+### Testing & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postman,jest,cypress,github" />
 </p>
@@ -73,12 +73,12 @@ Currently working as a freelancer and handling client projects across different 
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🌾 Agriculture Store & Consultation Platform
+###  Agriculture Store & Consultation Platform
 A full-stack platform with AI-based crop disease detection, marketplace, and weather-based recommendations.
 
-**Stack:** Next.js, MongoDB, Python, FastAPI
+**Stack:** Next.js, MongoDB, Shadcn, Framer Motion, Socket.io
 
 ---
 
@@ -92,11 +92,11 @@ Property listing platform with authentication, dashboards, and real-time communi
 ### 📊 Business Dashboard System
 Custom admin dashboard with analytics, roles, notifications, and API integrations.
 
-**Stack:** Next.js, Laravel, MongoDB
+**Stack:** Next.js, Nest.js, Shadcn, PostgreSQL, Prisma, Redis, 
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -112,12 +112,12 @@ Custom admin dashboard with analytics, roles, notifications, and API integration
 
 ---
 
-# ⚡ Final Note
+# Final Note
 
 I build applications end-to-end, focusing on real business problems, not just UI screens.
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile
+ Thanks for visiting my profile
 </p>
