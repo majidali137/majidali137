@@ -75,10 +75,10 @@ Currently working as a freelancer and handling client projects across different 
 
 # Featured Projects
 
-###  Agriculture Store & Consultation Platform
+### 🌾 Agriculture Store & Consultation Platform
 A full-stack platform with AI-based crop disease detection, marketplace, and weather-based recommendations.
 
-**Stack:** Next.js, MongoDB, Shadcn, Framer Motion, Socket.io
+**Stack:** Next.js, MongoDB, Shadcn, Framer Motion, Socket.io, AI, Weather Api, Geo Location Api
 
 ---
 
