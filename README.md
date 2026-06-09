@@ -100,7 +100,7 @@ Custom admin dashboard with analytics, roles, notifications, and API integration
 
 <p align="center">
 
-<a href="https://themajidpro.vercel.app" target="_blank">
+<a href="https://www.majidpro.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
