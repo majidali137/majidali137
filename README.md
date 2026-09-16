@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.majidpro.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/majid-ali-b257b2290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~012ed86681b15bdab2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~012ed86681b15bdab2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=6FDA44" /></a>
   <a href="mailto:themajidpro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.majidpro.com/calendly"><img src="https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
@@ -32,7 +32,7 @@ I'm currently **Top Rated on Upwork with a 100% Job Success Score**, actively ta
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vue,bootstrap,nodejs,nestjs,express,laravel,php,python,mongodb,postgresql,mysql,redis,docker,git,github,vercel,firebase,postman,vscode&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vue,bootstrap,nodejs,nestjs,express,laravel,php,python,mongodb,postgresql,mysql,redis,docker,git,github,vercel,firebase,postman,vscode&theme=dark&perline=12" />
 </p>
 
 <br/>
@@ -95,7 +95,7 @@ I'm always open to interesting freelance work or full-time roles where I can own
 <p align="center">
   <a href="https://www.majidpro.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/majid-ali-b257b2290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~012ed86681b15bdab2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~012ed86681b15bdab2?mp_source=share"><img src="https://img.shields.io/badge/Upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=6FDA44" /></a>
   <a href="mailto:themajidpro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.majidpro.com/calendly"><img src="https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
