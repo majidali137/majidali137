@@ -67,10 +67,6 @@ Review management SaaS — collect, manage & showcase customer feedback.
 An AI-powered product built solo, end-to-end — from prompt design to deployment.
 *Next.js, AI Integration*
 
-**[NTX Real Estate](https://ntxrei.com)**
-Real estate management platform with listings, dashboards & live updates.
-*MERN, Firebase, Socket.io*
-
 **[Power Flow](https://power-flow.vercel.app/)** ([source](https://github.com/majidali137/power_flow))
 Workflow automation tool for streamlining internal business processes.
 *Next.js*
